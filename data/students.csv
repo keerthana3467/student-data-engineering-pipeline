@@ -1,0 +1,18 @@
+student_id,student_name,department,marks,attendance
+101,Aarav, CSE,88,92
+102,Diya,ECE,76,85
+103,Kavin,IT,91,96
+104,Meera,CSE,67,72
+105,Arjun,EEE,54,68
+106,,ECE,82,88
+107,Nila,IT,,79
+108,Rohan,CSE,105,90
+109,Sana,EEE,73,112
+110,Varun,IT,64,74
+111,Ananya,ECE,79,81
+112,Joel,CSE,88,92
+112,Joel,CSE,88,92
+113,Pranav,,69,77
+114,Ishita,IT,0,65
+115,Harish,EEE,-5,83
+116,Keerthi,ECE,86,94
